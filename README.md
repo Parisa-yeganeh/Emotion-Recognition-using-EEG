@@ -7,3 +7,14 @@
 
 <h3>Description of the project</h3>
 First of all, by using <a href="https://github.com/ieee8023/covid-chestxray-dataset/" target="_blank" rel="noopener noreferrer">MNE.</a> python libarary, we converted the EEG signals to a time series array. 
+  
+  @article{GramfortEtAl2013a,
+  title = {{{MEG}} and {{EEG}} Data Analysis with {{MNE}}-{{Python}}},
+  author = {Gramfort, Alexandre and Luessi, Martin and Larson, Eric and Engemann, Denis A. and Strohmeier, Daniel and Brodbeck, Christian and Goj, Roman and Jas, Mainak and Brooks, Teon and Parkkonen, Lauri and H{\"a}m{\"a}l{\"a}inen, Matti S.},
+  year = {2013},
+  volume = {7},
+  pages = {1--13},
+  doi = {10.3389/fnins.2013.00267},
+  journal = {Frontiers in Neuroscience},
+  number = {267}
+}
